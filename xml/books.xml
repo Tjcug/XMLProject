@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<bookstore>
+    <book id="01">
+        <name>大数据Spark实战</name>
+        <author>王佳琳</author>
+        <year>1995.10.02</year>
+        <price>￥89</price>
+    </book>
+    <book id="02">
+        <name>Spark核心技术详解</name>
+        <author>向海</author>
+        <year>2015.10.02</year>
+        <price>￥98</price>
+        <language>中文</language>
+    </book>
+</bookstore>
